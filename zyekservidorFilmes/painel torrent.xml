@@ -1,3 +1,13 @@
+ <channels>
+	<!-- opicional -->    
+	<channel>
+        <name>[COLOR lime][B]--Cine Dragon X Acervo R.O--[/B][/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com</externallink>
+    </channel>
+	 
 <channels>
 	<!-- opicional -->    
 	<channel>
