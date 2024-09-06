@@ -5,7 +5,7 @@
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/19Blackforest/jackblack/main/zyekservidorFilmes/acao.xml</externallink>
     </channel>
 	
 	<channel>
@@ -13,7 +13,7 @@
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/19Blackforest/jackblack/main/zyekservidorFilmes/animacao.xml</externallink>
     </channel>
 	
 	<channel>
@@ -21,7 +21,7 @@
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/19Blackforest/jackblack/main/zyekservidorFilmes/aventura.xml</externallink>
     </channel>
 	
 	<channel>
@@ -29,7 +29,7 @@
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/19Blackforest/jackblack/main/zyekservidorFilmes/comedia.xml</externallink>
     </channel>
 	
 
