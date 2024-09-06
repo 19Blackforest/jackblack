@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR yellow]acao[/COLOR]</name>
+        <name>[COLOR yellow][B]acao [/B][/COLOR][I]Total= 239/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
@@ -9,7 +9,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR yellow]animação[/COLOR]</name>
+        <name>[COLOR yellow][B]animação [/B][/COLOR][I]Total= 111[/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
@@ -17,7 +17,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR yellow]Aventura[/COLOR]</name>
+        <name>[COLOR yellow][B]Aventura [/B][/COLOR][I]Total= 99[/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
@@ -25,7 +25,7 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR yellow]Comedia[/COLOR]</name>
+        <name>[COLOR yellow][B]Comedia [/B][/COLOR][I]Total= 38[/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
