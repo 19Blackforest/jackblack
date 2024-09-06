@@ -1,0 +1,37 @@
+<channels>
+	<!-- opicional -->    
+	<channel>
+        <name>[COLOR yellow]acao[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR yellow]animação[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR yellow]Aventura[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR yellow]Comedia[/COLOR]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://</externallink>
+    </channel>
+	
+
+
+</channels>	
