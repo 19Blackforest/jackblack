@@ -11,7 +11,7 @@
 	 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR yellow][B]Lancamento 2024[/B][/COLOR][I]Total= 1/I]</name>
+        <name>[COLOR yellow][B]Lancamento 2024[/B][/COLOR][I]Total= 1[/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
