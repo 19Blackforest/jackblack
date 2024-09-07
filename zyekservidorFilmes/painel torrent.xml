@@ -7,7 +7,17 @@
 		<info></info>
 		<externallink>https://raw.githubusercontent.com</externallink>
     </channel>
-	 
+
+	 <channels>
+	<!-- opicional -->    
+	<channel>
+        <name>[COLOR yellow][B]Lancamento 2024[/B][/COLOR][I]Total= 1/I]</name>
+        <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
+        <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/Heitor13/heitor13/main/FILMESLAN%C3%87AMENTOS2024.XML</externallink>
+    </channel>
+		 
 <channels>
 	<!-- opicional -->    
 	<channel>
