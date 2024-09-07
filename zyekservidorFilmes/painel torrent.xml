@@ -21,7 +21,7 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR yellow][B]acao [/B][/COLOR][I]Total= 239/I]</name>
+        <name>[COLOR yellow][B]acao [/B][/COLOR][I]Total= 239[/I]</name>
         <thumbnail>https://listapvr.netlify.app/lista/image/fanart.jpg</thumbnail>
         <fanart>https://listapvr.netlify.app/lista/image/fanart.jpg</fanart>
 		<info></info>
